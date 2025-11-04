@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36623.8 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabActivity_1_Setup", "LabActivity_1_Setup\LabActivity_1_Setup.csproj", "{C8091E52-39B4-4827-8E94-035FDB151D2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabActivity_2_BasicSyntax", "LabActivity_2_BasicSyntax\LabActivity_2_BasicSyntax.csproj", "{C4DA6D76-C71C-4799-AB92-110D6DA7504A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C8091E52-39B4-4827-8E94-035FDB151D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8091E52-39B4-4827-8E94-035FDB151D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8091E52-39B4-4827-8E94-035FDB151D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4DA6D76-C71C-4799-AB92-110D6DA7504A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4DA6D76-C71C-4799-AB92-110D6DA7504A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4DA6D76-C71C-4799-AB92-110D6DA7504A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4DA6D76-C71C-4799-AB92-110D6DA7504A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
