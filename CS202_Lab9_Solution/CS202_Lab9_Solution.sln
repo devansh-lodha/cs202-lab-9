@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabActivity_2_BasicSyntax",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabActivity_3_LoopsAndFunctions", "LabActivity_3_LoopsAndFunctions\LabActivity_3_LoopsAndFunctions.csproj", "{08607332-D556-4CD6-9EE2-D7C4DB576486}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabActivity_4_Arrays", "LabActivity_4_Arrays\LabActivity_4_Arrays.csproj", "{CC63F7B4-9125-4E50-A2FB-D3F17D54F1FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{08607332-D556-4CD6-9EE2-D7C4DB576486}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08607332-D556-4CD6-9EE2-D7C4DB576486}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08607332-D556-4CD6-9EE2-D7C4DB576486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC63F7B4-9125-4E50-A2FB-D3F17D54F1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC63F7B4-9125-4E50-A2FB-D3F17D54F1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC63F7B4-9125-4E50-A2FB-D3F17D54F1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC63F7B4-9125-4E50-A2FB-D3F17D54F1FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
